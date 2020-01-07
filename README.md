@@ -20,3 +20,5 @@ Aplicativo [BeHappyWithMe](http://behappywith.me) baseado no Web App do livro [P
   - [Medium](https://medium.com/) https://medium.com/reactbrasil/react-native/home
   - [slack](https://slack.com/intl/pt-br/) https://react-brasil.github.io/react-brasil-slack/
   - [github.com](https://github.com/) https://github.com/react-brasil
+ 
+ Luan Henrique
